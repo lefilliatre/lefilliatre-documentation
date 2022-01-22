@@ -14,7 +14,7 @@ Pour utilser le plugins, vous devez configurer les informations suivante:
 ### Api URL et Customer Code
 Vous devez renseigner l'adresse de la plateforme Agua IOT de votre fabricant  et le code customer correspondant ex: https://jollymec.agua-iot.com 732584
 
-...
+'''
 | Fabricant                     | Customer Code | API URL                                | Separate login URL (only needed if specified)         |
 | ----------------------------- | ------------- | -------------------------------------- | ----------------------------------------------------- |
 | EvaCalòr - PuntoFuoco         | 635987        | https://evastampaggi.agua-iot.com      |                                                       |
@@ -47,7 +47,7 @@ Vous devez renseigner l'adresse de la plateforme Agua IOT de votre fabricant  et
 | Alfaplam                      | 862148        | https://alfaplam.agua-iot.com          |                                                       |
 | Nina                          | 999999        | https://micronova.agua-iot.com         |                                                       |
 | Galletti                      | ?             | ?                                      |                                                       |
-...
+'''
 ### UUID
 
 UUID aléatoire (généré s'en un automatiquement : [https://www.uuidgenerator.net/version4)][]
