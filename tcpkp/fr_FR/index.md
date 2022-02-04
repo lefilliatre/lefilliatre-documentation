@@ -4,6 +4,7 @@ Ce plugin sert à communiquer avec les modules ethernet Niren TCP-KP-I8O8.
 voir lien d'achat :[aliexpress][]
 
 ![TCP-kp I8O8](https://lefilliatre.github.io/tcpkp/sources/niren.png)
+
 Ce plugins creer :
 - 8 commandes info pour connaitre l'état des 8 relais,
 - 8 commandes info pour connaitre l'état des 8 entrées,
@@ -16,7 +17,8 @@ Il posséde aussi une fonction "télérupteur" permettant (par le mappage) de re
 ## Configuration plugins
 
 Pour utilser le plugins, vous devez configurer les informations suivante:
-![liste](https://lefilliatre.github.io/tcpkp/sources/config.png)
+
+![configuration](https://lefilliatre.github.io/tcpkp/sources/configurationPlugins.png)
 
 - adresse IP carte : Adresse IP du tcp-kp
 - port communication carte : port de communication entre le demon et le tcpkp
