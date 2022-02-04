@@ -34,4 +34,4 @@ Pour cela il vous faudra lancer le logiciel de configuration disponible [ici][]
 
 
 [aliexpress]: https://fr.aliexpress.com/item/33005606116.html?spm=a2g0o.seodetail.topbuy.1.2d4f5bf3IYMFA2 "aliexpress"
-[ici]: https://lefilliatre.github.io/tcpkp/sources/logiciel de configuration.zip "archive logiciel"
+[ici]: https://lefilliatre.github.io/tcpkp/sources/logiciel%20de%20configuration.zip "archive logiciel"
