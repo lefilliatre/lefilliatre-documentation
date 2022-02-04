@@ -72,8 +72,6 @@ Pour cela il vous faudra lancer le logiciel de configuration disponible [ici][]
 - Enregistrer les parametres
 ![liste](https://lefilliatre.github.io/tcpkp/sources/enregistre.png)
 
-- Enregistrer les parametres
-![liste](https://lefilliatre.github.io/tcpkp/sources/enregistre.png)
 
 - Re-cliquer sur votre module pour verifier que tout à été enregistré
 ![liste](https://lefilliatre.github.io/tcpkp/sources/liste.png)
