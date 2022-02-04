@@ -56,9 +56,11 @@ Pour cela il vous faudra lancer le logiciel de configuration disponible [ici][]
 ![Selection carte réseau](https://lefilliatre.github.io/tcpkp/sources/selectCarte.png)
 
 - Lancer ensuite la recherche du module
+
 ![Recherche du module](https://lefilliatre.github.io/tcpkp/sources/recherche.png)
 
 - Si tout est raccordé correctement, votre module doit apparaitre dans la fenetre
+
 ![liste](https://lefilliatre.github.io/tcpkp/sources/liste.png)
 
 - double cliquer dessus pour se connecter
@@ -69,13 +71,16 @@ Pour cela il vous faudra lancer le logiciel de configuration disponible [ici][]
 	° L'adresse IP Fixe de votre module (celle mise dans la configuration du plugins)
 	° Le port de communication du module (celle mise dans la configuration du plugins)
 	° Le mode de fonctionnement (TCP_Server)
+	
 ![liste](https://lefilliatre.github.io/tcpkp/sources/param.png)
 
 - Enregistrer les parametres
+
 ![liste](https://lefilliatre.github.io/tcpkp/sources/enregistre.png)
 
 
 - Re-cliquer sur votre module pour verifier que tout à été enregistré
+
 ![liste](https://lefilliatre.github.io/tcpkp/sources/liste.png)
 
 - Le module est prét à etre installé dans votre installation!
