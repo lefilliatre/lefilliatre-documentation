@@ -7,7 +7,7 @@
 
 # 12/02/2022
 
-- Ajout de l'arme au format texte
+- Ajout de l'alrme au format texte
 
 # 29/01/2022
 
