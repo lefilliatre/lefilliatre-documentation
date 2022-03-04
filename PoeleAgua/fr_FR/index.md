@@ -70,7 +70,7 @@ Renseigner un port de libre pour la communication avec jeedom
 ## Certificats
 Avec certainne plateforme, vous pouvez renconter des difficultées à vous connecter sur le serveur du fabricant (ex : mcz) à cause du certificat pour le https.
 Pour corriger le pb sur remote-mcz par exemple:
-.  récupérer le certificat (remote-mcz-it-chain.pem) du site (à partir de votre navigateur web)
+*  récupérer le certificat (remote-mcz-it-chain.pem) du site (à partir de votre navigateur web)
 Du genre:
 ```
 -----BEGIN CERTIFICATE-----
@@ -161,10 +161,10 @@ YSEY1QSteDwsOoBrp+uvFRTp2InBuThs4pFsiv9kuXclVzDAGySj4dzp30d8tbQk
 CAUw7C29C79Fv1C5qfPrmAESrciIxpg0X40KPMbp1ZWVbd4=
 -----END CERTIFICATE-----
 ```
-. Renommer le certificat remote-mcz-it-chain.pem en remote-mcz-it-chain.crt
-. Copier le dans le dossier /usr/share/ca-certificates
-. Lancer la commande sudo dpkg-reconfigure ca-certificates
-. Dans la fenetre, selectionner votre certificat
+* Renommer le certificat remote-mcz-it-chain.pem en remote-mcz-it-chain.crt
+* Copier le dans le dossier /usr/share/ca-certificates
+* Lancer la commande sudo dpkg-reconfigure ca-certificates
+* Dans la fenetre, selectionner votre certificat
 
 
 [py-agua-iot]: https://github.com/fredericvl/py-agua-iot "Github"
