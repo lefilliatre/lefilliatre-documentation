@@ -66,7 +66,7 @@ Mot de passe sur l'app
 ### Port de communication Jeedom
 Renseigner un port de libre pour la communication avec jeedom 
 
-#FAQ
+# FAQ
 ## Certificats
 Avec certainne plateforme, vous pouvez renconter des difficultées à vous connecter sur le serveur du fabricant (ex : mcz) à cause du certificat pour le https.
 Pour corriger le pb sur remote-mcz par exemple:
