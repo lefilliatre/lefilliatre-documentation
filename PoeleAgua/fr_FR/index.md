@@ -27,17 +27,17 @@ Vous devez renseigner l'adresse de la plateforme Agua IOT de votre fabricant  et
 | LMX Remote Control            | 352678        | https://laminox.agua-iot.com           |                                                       |
 | Boreal Home                   | 173118        | https://boreal.agua-iot.com            |                                                       |
 | Bronpi Home                   | 164873        | https://bronpi.agua-iot.com            |                                                       |
-| EOSS WIFI                     | 326495        | https://solartecnik.agua-iot.com       |                                                       |
+| EOSS WIFI -solartecnik        | 326495        | https://solartecnik.agua-iot.com       |                                                       |
 | LAMINOXREM REMOTE CONTROL 2.0 | 352678        | https://laminox.agua-iot.com           |                                                       |
 | Jolly Mec Wi Fi               | 732584        | https://jollymec.agua-iot.com          |                                                       |
 | Globe-fire                    | 634876        | https://globefire.agua-iot.com         |                                                       |
-| TS Smart                      | 046629        | https://timsistem.agua-iot.com         |                                                       |
+| TS Smart - timsistem          | 046629        | https://timsistem.agua-iot.com         |                                                       |
 | Stufe a pellet Italia         | 015142        | https://stufepelletitalia.agua-iot.com |                                                       |
 | My Corisit                    | 101427        | https://mycorisit.agua-iot.com         |                                                       |
 | Fonte Flamme contrôle 1       | 848324        | https://fonteflame.agua-iot.com        |                                                       |
 | Klover Home                   | 143789        | https://klover.agua-iot.com            |                                                       |
 | Nordic Fire 2.0               | 132678        | https://nordicfire.agua-iot.com        |                                                       |
-| GO HEAT                       | 859435        | https://amg.agua-iot.com               |                                                       |
+| GO HEAT -amg                  | 859435        | https://amg.agua-iot.com               |                                                       |
 | Wi-Phire                      | 521228        | https://lineavz.agua-iot.com           |                                                       |
 | Thermoflux                    | 391278        | https://thermoflux.agua-iot.com        |                                                       |
 | Darwin Evolution              | 475219        | https://cola.agua-iot.com              |                                                       |
