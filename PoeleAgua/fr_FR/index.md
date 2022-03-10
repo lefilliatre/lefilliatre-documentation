@@ -164,5 +164,10 @@ CAUw7C29C79Fv1C5qfPrmAESrciIxpg0X40KPMbp1ZWVbd4=
 * Lancer la commande sudo dpkg-reconfigure ca-certificates
 * Dans la fenêtre, sélectionner votre certificat
 
+
+
+
+Merci à kaz6531 pour l'aide à la rédaction de cette notice :')
+
 [py-agua-iot]: https://github.com/fredericvl/py-agua-iot "Github"
 [https://www.uuidgenerator.net/version4)]: https://www.uuidgenerator.net/version4 "Génération UUID"
