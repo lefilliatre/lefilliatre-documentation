@@ -1,18 +1,18 @@
 # Plugin PoeleAgua
 
-Ce plugin sert à communiquer avec les poêles à bois et ou granulé communiquant sur la base du system AGUA IOT.
+Ce plugin sert à communiquer avec les poêles à bois et/ou granulé communiquant sur la base du system AGUA IOT.
 
 Il se base sur le travail de fredericvl avec le script python [py-agua-iot][]
-Ce plugins permet l'intégration des poêles connecté par la plateforme AGUA IOT de Micronova à **Jeedom**
+Ce plugin permet l’intégration des poêles connectés par la plateforme AGUA IOT de Micronova dans **Jeedom**
 
-Attention ce plugins n'a pas été testé avec tous les poêles. Aucune garantie que cela va fonctionner avec le votre.
+Attention ce plugin n’a pas été testé avec tous les poêles. , il n’y a donc aucune garantie que cela fonctionnera avec le vôtre.
 
 ## Configuration
 
-Pour utilser le plugins, vous devez configurer les informations suivante:
+Pour utiliser le plugin, vous devez configurer les informations suivantes :
 
 ### Api URL et Customer Code
-Vous devez renseigner l'adresse de la plateforme Agua IOT de votre fabricant  et le code customer correspondant ex: https://jollymec.agua-iot.com 732584
+Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de votre fabricant et le Customer Code correspondant, par exemple : https://jollymec.agua-iot.com 732584
 
 ```
 | Fabricant                     | Customer Code | API URL                                | Separate login URL (only needed if specified)         |
@@ -50,7 +50,7 @@ Vous devez renseigner l'adresse de la plateforme Agua IOT de votre fabricant  et
 ```
 ### UUID
 
-UUID aléatoire (généré s'en un automatiquement : [https://www.uuidgenerator.net/version4)][]
+UUID aléatoire (vous pouvez générer un nouvel UUID automatiquement via ce site par exemple : [https://www.uuidgenerator.net/version4)][]
 
 ### Marque
 
@@ -58,20 +58,18 @@ Généralement =1
 
 ### Login sur l'app
 	
-Login sur l'app (email)
+Login sur l’app (l’e-mail que vous utilisez habituellement sur l’application mobile Android ou iOS)
 
-### Login sur l'app
-Mot de passe sur l'app
+### Login sur l’app
+Mot de passe sur l’app
 
 ### Port de communication Jeedom
-Renseigner un port de libre pour la communication avec jeedom 
+Renseigner un port de libre pour la communication avec jeedom  (par exemple 3131, 3130, 4576, etc., évitez 80, 443, et autres ports utilisés par d’autres services déjà installés sur votre Jeedom)
 
 # FAQ
 ## Certificats
-Avec certainne plateforme, vous pouvez renconter des difficultées à vous connecter sur le serveur du fabricant (ex : mcz) à cause du certificat pour le https.
-Pour corriger le pb sur remote-mcz par exemple:
-*  récupérer le certificat (remote-mcz-it-chain.pem) du site (à partir de votre navigateur web)
-Du genre:
+Avec certaines plateformes, vous pouvez renconter des difficultés à vous connecter sur le serveur du fabricant (ex : mcz) à cause du certificat utilisé pour le https. Pour corriger ce problème, sur remote-mcz par exemple:
+* Récupérer le certificat (remote-mcz-it-chain.pem) du site (à partir de votre navigateur web, par exemple :
 ```
 -----BEGIN CERTIFICATE-----
 MIIGujCCBaKgAwIBAgIQCu86AermVJHmCGKh0S0GrjANBgkqhkiG9w0BAQsFADBN
@@ -162,10 +160,9 @@ CAUw7C29C79Fv1C5qfPrmAESrciIxpg0X40KPMbp1ZWVbd4=
 -----END CERTIFICATE-----
 ```
 * Renommer le certificat remote-mcz-it-chain.pem en remote-mcz-it-chain.crt
-* Copier le dans le dossier /usr/share/ca-certificates
+* Copier le dans le dossier /usr/share/ca-certificates de votre serveur Jeedom
 * Lancer la commande sudo dpkg-reconfigure ca-certificates
-* Dans la fenetre, selectionner votre certificat
-
+* Dans la fenêtre, sélectionner votre certificat
 
 [py-agua-iot]: https://github.com/fredericvl/py-agua-iot "Github"
 [https://www.uuidgenerator.net/version4)]: https://www.uuidgenerator.net/version4 "Génération UUID"
