@@ -5,6 +5,9 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 12/03/2022
+- Modification remontée de la température fumée pour les poêles moretti design
+
 # 08/03/2022
 - Augmentation timeout http + ajout log
 
