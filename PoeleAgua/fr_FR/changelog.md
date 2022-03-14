@@ -7,6 +7,7 @@
 
 # 14/03/2022
 - Modification remontée de la température fumée et commandes spéciales pour les poêles moretti design
+- suppression du login et mot de passe des logs pour pouvoir les poster sans risque
 
 # 08/03/2022
 - Augmentation timeout http + ajout log
