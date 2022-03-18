@@ -5,6 +5,9 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 18/03/2022
+- Mise a jour des états texte pour les modèles moretti (merci SosoSoja)
+
 # 14/03/2022
 - Modification remontée de la température fumée et commandes spéciales pour les poêles moretti design
 - suppression du login et mot de passe des logs pour pouvoir les poster sans risque
