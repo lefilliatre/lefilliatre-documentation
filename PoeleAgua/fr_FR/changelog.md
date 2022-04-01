@@ -5,6 +5,9 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 01/03/2022
+- Forcage décodage json en UTF8
+
 # 18/03/2022
 - Mise a jour des états texte pour les modèles moretti (merci SosoSoja)
 
