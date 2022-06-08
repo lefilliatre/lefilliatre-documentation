@@ -5,6 +5,10 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+
+# BETA 06:06/2022
+- Ajout url de login dans la configuration du plugins pour poele MyPiazzetta
+
 # 02/04/2022
 - correction intall dépendance six (merci micke74)
  
