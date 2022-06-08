@@ -11,8 +11,8 @@ Attention ce plugin n’a pas été testé avec tous les poêles. , il n’y a d
 
 Pour utiliser le plugin, vous devez configurer les informations suivantes :
 
-### Api URL et Customer Code
-Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de votre fabricant et le Customer Code correspondant, par exemple : https://jollymec.agua-iot.com 732584
+### Api URL, Login URL et Customer Code
+Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de votre fabricant, l'url de login si necessaire (ex piazzetta) (sinon laisser vide) et le Customer Code correspondant, par exemple : https://jollymec.agua-iot.com 732584
 
 ```
 | Fabricant                     | Customer Code | API URL                                | Separate login URL (only needed if specified)         |
