@@ -5,6 +5,8 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# BETA 22/09/2022
+- Preparation pour ajout des commandes spécifique à une marque ou modele. Attention nécessite la suppression de la commande : status géré qui sera recréer automatiquement.
 
 # BETA 06/06/2022
 - Ajout url de login dans la configuration du plugins pour poele MyPiazzetta
