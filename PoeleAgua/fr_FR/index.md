@@ -66,6 +66,46 @@ Mot de passe sur l’app
 ### Port de communication Jeedom
 Renseigner un port de libre pour la communication avec jeedom  (par exemple 3131, 3130, 4576, etc., évitez 80, 443, et autres ports utilisés par d’autres services déjà installés sur votre Jeedom)
 
+#Mode expert
+Le mode expert permet d’ajouter des retour d’état et commandes spécifiques à chaque marque et modèle de poêle.
+
+Attention : certaines commandes, si mal paramétrées, peuvent altérer le fonctionnement de votre poêle. Il est impératif de se référer à la documentation de votre équipement et de comprendre les différentes options et paramètres de votre poêle préalablement à toute intervention dans le plugin Poêle Agua IOT. 
+
+##Bonnes pratiques :
+Il est vivement conseillé de ne créer dans un premier temps que les retours d’états souhaités et d’en avoir l’historique (‘Historiser’ coché). Faire les tests de commande avec l’application Android ou Apple dédiée à côté de l’équipement et s’assurer que le changement d’état dans le plugin correspond bien à la commande désirée et modifie bien le comportement du poêle.
+Créer ensuite les commandes dans le plugin. Faire les tests de commande avec le plugin à côté de l’équipement et s’assurer que le changement d’état dans l’application Android ou Apple dédiée correspond bien à la commande désirée et modifie bien le comportement du poêle.
+Si un retour d’état ou une commande n’est pas disponible dans l’application Android ou Apple dédiée, elle ne le sera pas non plus dans le plugin !
+##Identification des retours d’états et commandes disponibles :
+•	Récupérer le log PoeleAgua en mode debug après avoir redémarré le Démon.
+•	Dans [update_device_registers_mapping --> REGISTERS MAP] identifier le retour d’état ou la commande qui doit être ajoutée.
+
+Exemple :
+```
+'vent_front_get': {'reg_type': 'GET', 'offset': 32897, 'formula': '#', 'formula_inverse': '#', 'format_string': '{0}', 'set_min': 0, 'set_max': 3, 'mask': 65535, 'value_off': 3} 
+```
+‘Vent_front_get’ est le retour d’état de la consigne de puissance du ventilateur.
+'reg_type': 'GET' signifie qu’il s’agit d’un retour d’état (GET) 
+'offset': 32897 désigne l’adresse à laquelle l’état ou la commande est assignée (important pour la suite).
+‘set_min’ : 0, ‘set_max’ : 3, […], ‘value_off’ : 3 signifie qu’il y a quatre état possible de 0 à 3 et que trois signifie ‘éteint’. 
+
+```
+'vent_front_set': {'reg_type': 'SET', 'offset': 32897, 'formula': '#', 'formula_inverse': '#', 'format_string': '{0}', 'set_min': 0, 'set_max': 3, 'mask': 65535, 'value_off': 3} 
+```
+‘Vent_front_set’ est la commande de la consigne de puissance du ventilateur.
+'reg_type': 'SET' signifie qu’il s’agit d’une commande (SET)
+'offset': 32897 a la même adresse que le retour d’état.
+‘set_min’ : 0, ‘set_max’ : 3, […], ‘value_off’ : 3 est identique au retour d’état. 
+•	Dans [update_device_information--> INFORMATION MAP:] identifier la valeur d’un retour d’état offset
+Dans cet exemple : 
+```
+32897: 2 
+```
+La valeur retournée dans le plugin pour l’offset 32897 (puissance de ventilateur dans notre exemple) sera 2. Note : dans ce cas précis, l’application Android ou Apple dédiée renvoie une valeur de 3 car 0=1, 1=2, 2=3 et 3=Off. 
+
+##Ajouter un retour d’état :
+Après avoir sélectionné votre poêle dans le plugin, aller dans la section commandes et cliquer en haut à droite sur ‘ajouter une commande’.
+
+
 # FAQ
 ## Certificats
 Avec certaines plateformes, vous pouvez renconter des difficultés à vous connecter sur le serveur du fabricant (ex : mcz) à cause du certificat utilisé pour le https. Pour corriger ce problème, sur remote-mcz par exemple:
