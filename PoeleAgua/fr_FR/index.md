@@ -66,12 +66,12 @@ Mot de passe sur l’app
 ### Port de communication Jeedom
 Renseigner un port de libre pour la communication avec jeedom  (par exemple 3131, 3130, 4576, etc., évitez 80, 443, et autres ports utilisés par d’autres services déjà installés sur votre Jeedom)
 
-#Mode expert
+# Mode expert
 Le mode expert permet d’ajouter des retour d’état et commandes spécifiques à chaque marque et modèle de poêle.
 
 Attention : certaines commandes, si mal paramétrées, peuvent altérer le fonctionnement de votre poêle. Il est impératif de se référer à la documentation de votre équipement et de comprendre les différentes options et paramètres de votre poêle préalablement à toute intervention dans le plugin Poêle Agua IOT. 
 
-##Bonnes pratiques :
+## Bonnes pratiques :
 Il est vivement conseillé de ne créer dans un premier temps que les retours d’états souhaités et d’en avoir l’historique (‘Historiser’ coché). Faire les tests de commande avec l’application Android ou Apple dédiée à côté de l’équipement et s’assurer que le changement d’état dans le plugin correspond bien à la commande désirée et modifie bien le comportement du poêle.
 Créer ensuite les commandes dans le plugin. Faire les tests de commande avec le plugin à côté de l’équipement et s’assurer que le changement d’état dans l’application Android ou Apple dédiée correspond bien à la commande désirée et modifie bien le comportement du poêle.
 Si un retour d’état ou une commande n’est pas disponible dans l’application Android ou Apple dédiée, elle ne le sera pas non plus dans le plugin !
@@ -102,9 +102,10 @@ Dans cet exemple :
 ```
 La valeur retournée dans le plugin pour l’offset 32897 (puissance de ventilateur dans notre exemple) sera 2. Note : dans ce cas précis, l’application Android ou Apple dédiée renvoie une valeur de 3 car 0=1, 1=2, 2=3 et 3=Off. 
 
-##Ajouter un retour d’état :
+## Ajouter un retour d’état :
 Après avoir sélectionné votre poêle dans le plugin, aller dans la section commandes et cliquer en haut à droite sur ‘ajouter une commande’.
 
+![Nouvelle commande](https://lefilliatre.github.io/PoeleAgua/ressources/nouvelleCmd.png)
 
 # FAQ
 ## Certificats
