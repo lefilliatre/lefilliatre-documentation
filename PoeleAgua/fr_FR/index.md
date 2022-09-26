@@ -235,5 +235,6 @@ CAUw7C29C79Fv1C5qfPrmAESrciIxpg0X40KPMbp1ZWVbd4=
 
 *Merci à kaz6531 pour l'aide à la rédaction de cette notice*:wink:
 *et à DjBlues pour la rédaction du mode expert.*:wink:
+
 [py-agua-iot]: https://github.com/fredericvl/py-agua-iot "Github"
 [https://www.uuidgenerator.net/version4)]: https://www.uuidgenerator.net/version4 "Génération UUID"
