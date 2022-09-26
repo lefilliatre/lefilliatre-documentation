@@ -5,6 +5,9 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# BETA 26/09/2022
+- Ajout mode "expert" pour l'ajout de commandes spécifique. (voir doc du plugins)
+
 # BETA 22/09/2022
 - Preparation pour ajout des commandes spécifique à une marque ou modele. Attention nécessite la suppression de la commande : status géré qui sera recréer automatiquement.
 
