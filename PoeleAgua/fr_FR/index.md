@@ -106,6 +106,31 @@ La valeur retournée dans le plugin pour l’offset 32897 (puissance de ventilat
 Après avoir sélectionné votre poêle dans le plugin, aller dans la section commandes et cliquer en haut à droite sur ‘ajouter une commande’.
 
 ![Nouvelle commande](https://lefilliatre.github.io/PoeleAgua/ressources/nouvelleCmd.png)
+Nom de la commande 	= le nom que vous souhaitez voir s’afficher dans le plugin. Dans cet exemple : Puissance ventilateur
+Commande			= i_ + le retour d’état de votre poêle identifié précédemment que vous voulez voir. Dans notre exemple :
+```
+i_vent_front_get 
+```
+Info				= retour d’état. 
+Numérique			= Retour numérique
+Cliquer sur ‘Historiser’
+N’oubliez pas de sauvegarder !
+
+## Ajouter une commande :
+
+Après avoir sélectionné votre poêle dans le plugin, aller dans la section commandes et cliquer en haut à droite sur ‘ajouter une commande’.
+
+Nom de la commande 	= le nom que vous souhaitez voir s’afficher dans le plugin. Par exemple : Réglage ventilateur
+Commande			= le retour d’état de votre poêle identifié précédemment que vous voulez voir, sans le préfixe i_. Dans cet exemple :
+```
+vent_front_set
+```
+Info				= basculer sur ‘action’. 
+ 
+Aucune			= sélectionner dans le menu déroulant la commande info liée. Dans cet exemple : Puissance ventilateur.
+Défaut			= Basculer vers ‘Curseur
+N’oubliez pas de sauvegarder !
+
 
 # FAQ
 ## Certificats
