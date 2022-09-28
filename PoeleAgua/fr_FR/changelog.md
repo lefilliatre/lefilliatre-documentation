@@ -5,6 +5,9 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# BETA 28/09/2022
+- Ajout detail dans les logs avec connexion par url de login
+
 # BETA 26/09/2022
 - Ajout mode "expert" pour l'ajout de commandes spécifique. (voir doc du plugins)
 
