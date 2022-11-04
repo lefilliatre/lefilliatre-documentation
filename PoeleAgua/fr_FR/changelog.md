@@ -5,7 +5,7 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
-# BETA 04/11/2022
+# 04/11/2022
 - Modification pour core jeedom V4.2
  
 # 01/10/2022
