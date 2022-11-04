@@ -5,6 +5,9 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# BETA 04/11/2022
+- Modification pour core jeedom V4.2
+ 
 # 01/10/2022
 - Passage de la beta du 26/09/2022 en realease. Attention nécessite la suppression de la commande : status géré qui sera recréer
 
