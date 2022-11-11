@@ -8,6 +8,7 @@
 # 11/11/2022
 - Correction récupération description du poêle aprés modification dans l'app
 - Correction documentation
+- Correction champs enlevés à la conversion V4.2
 
 # 04/11/2022
 - Modification pour core jeedom V4.2
