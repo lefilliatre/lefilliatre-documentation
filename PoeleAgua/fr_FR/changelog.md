@@ -5,7 +5,7 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
-# BETA 11/11/2022
+# 11/11/2022
 - Correction récupération description du poêle aprés modification dans l'app
 
 # 04/11/2022
