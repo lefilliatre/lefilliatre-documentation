@@ -5,6 +5,10 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# BETA 15/11/2022
+- Traduction de certain status de poele (Moretti) (Merci à dan_73)
+- Correction retour état start/stop sur commande action start/stop pouvant empecher le pilotage sur version web
+
 # 11/11/2022
 - Correction récupération description du poêle aprés modification dans l'app
 - Correction documentation
