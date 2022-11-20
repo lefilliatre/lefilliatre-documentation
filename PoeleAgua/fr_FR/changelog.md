@@ -5,6 +5,9 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 20/11/2022
+- Passage de la beta du 15/11/2022 en realease. Pour info les commandes action "start" et "stop" peuvent etre utiliser à la place de la liste déroulante "startstop".
+
 # BETA 15/11/2022
 - Traduction de certain status de poele (Moretti) (Merci à dan_73)
 - Correction retour état start/stop sur commande action start/stop pouvant empecher le pilotage sur version web
