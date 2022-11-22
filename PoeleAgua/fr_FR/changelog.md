@@ -6,7 +6,7 @@
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
 # BETA 22/11/2022
-- Correction demon qui lance deux connexions sur la plateforme agua-iot, pour tenter de résoudre les défauts de "fetching device..."
+- Correction erreur dans le demon qui avait pour effet de lancer deux connexions sur la plateforme agua-iot au lieu d'une. Peut-etre une piste pour les personnes qui ont des défauts de "fetching device..."
 
 # 20/11/2022
 - Passage de la beta du 15/11/2022 en release. Pour info les commandes action "start" et "stop" peuvent etre utiliser à la place de la liste déroulante "startstop".
