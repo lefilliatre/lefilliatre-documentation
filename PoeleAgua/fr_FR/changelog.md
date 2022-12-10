@@ -5,6 +5,10 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 10/12/2022
+- Passage de la beta du 22/11/2022 en release.
+- Ajout de status et texte d'alarme
+
 # BETA 22/11/2022
 - Correction erreur dans le demon qui avait pour effet de lancer deux connexions sur la plateforme agua-iot au lieu d'une. Peut-etre une piste pour les personnes qui ont des défauts de "fetching device..."
 
