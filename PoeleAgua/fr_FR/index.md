@@ -15,7 +15,7 @@ Pour utiliser le plugin, vous devez configurer les informations suivantes :
 Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de votre fabricant, l'url de login si necessaire (ex piazzetta) (sinon laisser vide) et le Customer Code correspondant, par exemple : https://jollymec.agua-iot.com 732584
 
 
-| Fabricant                     | Customer Code | API URL                                		    | Separate login URL (only needed if specified)         |
+| Fabricant                     | Customer Code | API URL                                		    | Separate login URL (only needed if specified)          |
 | ----------------------------- | ------------- | --------------------------------------------------------- | ---------------------------------------- ------------- |
 | EvaCalòr - PuntoFuoco         | 635987        | https://evastampaggi.agua-iot.com      		    |                                                        |
 | Elfire Wifi                   | 402762        | https://elfire.agua-iot.com            	 	    |                                                        |
