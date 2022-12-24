@@ -11,50 +11,47 @@ Attention ce plugin n’a pas été testé avec tous les poêles. , il n’y a d
 
 Pour utiliser le plugin, vous devez configurer les informations suivantes :
 
-### Api URL, Login URL et Customer Code
+### Api URL, Login URL , Customer Code , Marque , brandName, Version
 Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de votre fabricant, l'url de login si necessaire (ex piazzetta) (sinon laisser vide) et le Customer Code correspondant, par exemple : https://jollymec.agua-iot.com 732584
 
 
-| Fabricant                     | Customer Code | API URL                                | Separate login URL (only needed if specified)         |
-| ----------------------------- | ------------- | -------------------------------------- | ----------------------------------------------------- |
-| EvaCalòr - PuntoFuoco         | 635987        | https://evastampaggi.agua-iot.com      |                                                       |
-| Elfire Wifi                   | 402762        | https://elfire.agua-iot.com            |                                                       |
-| Karmek Wifi                   | 403873        | https://karmekone.agua-iot.com         |                                                       |
-| Easy Connect                  | 354924        | https://remote.mcz.it                  |                                                       |
-| Easy Connect Plus             | 746318        | https://remote.mcz.it                  |                                                       |
-| Easy Connect Poêle            | 354925        | https://remote.mcz.it                  |                                                       |
-| Lorflam Home                  | 121567        | https://lorflam.agua-iot.com           |                                                       |
-| LMX Remote Control            | 352678        | https://laminox.agua-iot.com           |                                                       |
-| Boreal Home                   | 173118        | https://boreal.agua-iot.com            |                                                       |
-| Bronpi Home                   | 164873        | https://bronpi.agua-iot.com            |                                                       |
-| EOSS WIFI -solartecnik        | 326495        | https://solartecnik.agua-iot.com       |                                                       |
-| LAMINOXREM REMOTE CONTROL 2.0 | 352678        | https://laminox.agua-iot.com           |                                                       |
-| Jolly Mec Wi Fi               | 732584        | https://jollymec.agua-iot.com          |                                                       |
-| Globe-fire                    | 634876        | https://globefire.agua-iot.com         |                                                       |
-| TS Smart - timsistem          | 046629        | https://timsistem.agua-iot.com         |                                                       |
-| Stufe a pellet Italia         | 015142        | https://stufepelletitalia.agua-iot.com |                                                       |
-| My Corisit                    | 101427        | https://mycorisit.agua-iot.com         |                                                       |
-| Fonte Flamme contrôle 1       | 848324        | https://fonteflame.agua-iot.com        |                                                       |
-| Klover Home                   | 143789        | https://klover.agua-iot.com            |                                                       |
-| Nordic Fire 2.0               | 132678        | https://nordicfire.agua-iot.com        |                                                       |
-| GO HEAT -amg                  | 859435        | https://amg.agua-iot.com               |                                                       |
-| Wi-Phire                      | 521228        | https://lineavz.agua-iot.com           |                                                       |
-| Thermoflux                    | 391278        | https://thermoflux.agua-iot.com        |                                                       |
-| Darwin Evolution              | 475219        | https://cola.agua-iot.com              |                                                       |
-| Moretti design                | 624813        | https://moretti.agua-iot.com           |                                                       |
-| Fontana Forni                 | 505912        | https://fontanaforni.agua-iot.com      |                                                       |
-| MyPiazzetta (MySuperior?)     | 458632        | https://piazzetta.agua-iot.com         | https://piazzetta.iot.web2app.it/api/bridge/endpoint/ |
-| Alfaplam                      | 862148        | https://alfaplam.agua-iot.com          |                                                       |
-| Nina                          | 999999        | https://micronova.agua-iot.com         |                                                       |
-| Galletti                      | ?             | ?                                      |                                                       |
+| Fabricant                     | Customer Code | API URL                                		    | Separate login URL (only needed if specified)         |
+| ----------------------------- | ------------- | --------------------------------------------------------- | ---------------------------------------- ------------- |
+| EvaCalòr - PuntoFuoco         | 635987        | https://evastampaggi.agua-iot.com      		    |                                                        |
+| Elfire Wifi                   | 402762        | https://elfire.agua-iot.com            	 	    |                                                        |
+| Karmek Wifi                   | 403873        | https://karmekone.agua-iot.com         		    |                                                        |
+| Easy Connect                  | 354924        | https://remote.mcz.it                 		    |                                                        |
+| Easy Connect Plus             | 746318        | https://remote.mcz.it                 		    |                                                        |
+| Easy Connect Poêle            | 354925        | https://remote.mcz.it                 		    |                                                        |
+| Lorflam Home                  | 121567        | https://lorflam.agua-iot.com          		    |                                                        |
+| LMX Remote Control            | 352678        | https://laminox.agua-iot.com           		    |                                                        |
+| Boreal Home                   | 173118        | https://boreal.agua-iot.com            		    |                                                        |
+| Bronpi Home                   | 164873        | https://bronpi.agua-iot.com            		    |                                                        |
+| EOSS WIFI -solartecnik        | 326495        | https://solartecnik.agua-iot.com       		    |                                                        |
+| LAMINOXREM REMOTE CONTROL 2.0 | 352678        | https://laminox.agua-iot.com           		    |                                                        |
+| Jolly Mec Wi Fi               | 732584        | https://jollymec.agua-iot.com          		    |                                                        |
+| Globe-fire                    | 634876        | https://globefire.agua-iot.com         		    |                                                        |
+| TS Smart - timsistem          | 046629        | https://timsistem.agua-iot.com         		    |                                                        |
+| Stufe a pellet Italia         | 015142        | https://stufepelletitalia.agua-iot.com 		    |                                                        |
+| My Corisit                    | 101427        | https://mycorisit.agua-iot.com         		    |                                                        |
+| Fonte Flamme contrôle 1       | 848324        | https://fonteflame.agua-iot.com        		    |                                                        |
+| Klover Home                   | 143789        | https://klover.agua-iot.com            		    |                                                        |
+| Nordic Fire 2.0               | 132678        | https://nordicfire.agua-iot.com        		    |                                                        |
+| GO HEAT -amg                  | 859435        | https://amg.agua-iot.com              		    |                                                        |
+| Wi-Phire                      | 521228        | https://lineavz.agua-iot.com          		    |                                                        |
+| Thermoflux                    | 391278        | https://thermoflux.agua-iot.com        		    |                                                        |
+| Darwin Evolution              | 475219        | https://cola.agua-iot.com              	            |                                                        |
+| Moretti design                | 624813        | https://moretti.agua-iot.com           		    |                                                        |
+| Fontana Forni                 | 505912        | https://fontanaforni.agua-iot.com  			    |                                                        |
+| MyPiazzetta		        | 458632        | https://piazzetta.agua-iot.com     			    | https://piazzetta.iot.web2app.it/api/bridge/endpoint/  |
+| MySuperior			| 458632        | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/   | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/|
+| Alfaplam                      | 862148        | https://alfaplam.agua-iot.com          		    |                                                        |
+| Nina                          | 999999        | https://micronova.agua-iot.com         		    |                                                        |
+| Galletti                      | ?             | ?                                      		    |                                                        |
 
 ### UUID
 
 UUID aléatoire (vous pouvez générer un nouvel UUID automatiquement via ce site par exemple : [https://www.uuidgenerator.net/version4)][]
-
-### Marque
-
-Généralement =1
 
 ### Login sur l'app
 	
@@ -65,6 +62,10 @@ Mot de passe sur l’app
 
 ### Port de communication Jeedom
 Renseigner un port de libre pour la communication avec jeedom  (par exemple 3131, 3130, 4576, etc., évitez 80, 443, et autres ports utilisés par d’autres services déjà installés sur votre Jeedom)
+
+### Port de communication Jeedom
+Renseigner un port de libre pour la communication avec jeedom  (par exemple 3131, 3130, 4576, etc., évitez 80, 443, et autres ports utilisés par d’autres services déjà installés sur votre Jeedom)
+
 
 # Mode expert
 Le mode expert permet d’ajouter des retour d’état et commandes spécifiques à chaque marque et modèle de poêle.
