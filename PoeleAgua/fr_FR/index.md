@@ -16,7 +16,7 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 
 
 | Fabricant                     | Customer Code | API URL                                		    | Separate login URL (only needed if specified)          | Marque | brandName  | Version |
-| ----------------------------- | ------------- | --------------------------------------------------------- | ---------------------------------------- ------------- | ------ | ---------- | ------- |
+| ----------------------------- | ------------- | --------------------------------------------------------- | ------------------------------------------------------ | ------ | ---------- | ------- |
 | EvaCalòr - PuntoFuoco         | 635987        | https://evastampaggi.agua-iot.com      		    |                                                        |
 | Elfire Wifi                   | 402762        | https://elfire.agua-iot.com            	 	    |                                                        |
 | Karmek Wifi                   | 403873        | https://karmekone.agua-iot.com         		    |                                                        |
