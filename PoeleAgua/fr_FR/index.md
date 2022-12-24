@@ -44,7 +44,7 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 | Moretti design                | 624813        | https://moretti.agua-iot.com           		    |                                                        |
 | Fontana Forni                 | 505912        | https://fontanaforni.agua-iot.com  			    |                                                        |
 | MyPiazzetta		        | 458632        | https://piazzetta.agua-iot.com     			    | https://piazzetta.iot.web2app.it/api/bridge/endpoint/  |
-| MySuperior			| 458632        | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/   | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/|
+| MySuperior			| 458632        | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/   | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/ |
 | Alfaplam                      | 862148        | https://alfaplam.agua-iot.com          		    |                                                        |
 | Nina                          | 999999        | https://micronova.agua-iot.com         		    |                                                        |
 | Galletti                      | ?             | ?                                      		    |                                                        |
