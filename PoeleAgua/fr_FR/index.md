@@ -16,17 +16,17 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 
 
 | Fabricant                     | Customer Code | API URL                                		    | Separate login URL (only needed if specified)          | Marque | brandName  | Version |
-| ----------------------------- | ------------- | --------------------------------------------------------- | ------------------------------------------------------ | ------ | ---------- | ------- |
-| EvaCalòr - PuntoFuoco         | 635987        | https://evastampaggi.agua-iot.com      		    |                                                        |
-| Elfire Wifi                   | 402762        | https://elfire.agua-iot.com            	 	    |                                                        |
-| Karmek Wifi                   | 403873        | https://karmekone.agua-iot.com         		    |                                                        |
-| Easy Connect                  | 354924        | https://remote.mcz.it                 		    |                                                        |
-| Easy Connect Plus             | 746318        | https://remote.mcz.it                 		    |                                                        |
-| Easy Connect Poêle            | 354925        | https://remote.mcz.it                 		    |                                                        |
-| Lorflam Home                  | 121567        | https://lorflam.agua-iot.com          		    |                                                        |
-| LMX Remote Control            | 352678        | https://laminox.agua-iot.com           		    |                                                        |
-| Boreal Home                   | 173118        | https://boreal.agua-iot.com            		    |                                                        |
-| Bronpi Home                   | 164873        | https://bronpi.agua-iot.com            		    |                                                        |
+| ----------------------------- | ------------- | --------------------------------------------- | --------------------------------------------- | ------ | ---------- | ------- |
+| EvaCalòr - PuntoFuoco         | 635987        | https://evastampaggi.agua-iot.com|                                                  |
+| Elfire Wifi                   | 402762        | https://elfire.agua-iot.com|                                                        |
+| Karmek Wifi                   | 403873        | https://karmekone.agua-iot.com|                                                        |
+| Easy Connect                  | 354924        | https://remote.mcz.it|                                                        |
+| Easy Connect Plus             | 746318        | https://remote.mcz.it|                                                        |
+| Easy Connect Poêle            | 354925        | https://remote.mcz.it|                                                        |
+| Lorflam Home                  | 121567        | https://lorflam.agua-iot.com|                                                        |
+| LMX Remote Control            | 352678        | https://laminox.agua-iot.com|                                                        |
+| Boreal Home                   | 173118        | https://boreal.agua-iot.com|                                                        |
+| Bronpi Home                   | 164873        | https://bronpi.agua-iot.com|                                                        |
 | EOSS WIFI -solartecnik        | 326495        | https://solartecnik.agua-iot.com       		    |                                                        |
 | LAMINOXREM REMOTE CONTROL 2.0 | 352678        | https://laminox.agua-iot.com           		    |                                                        |
 | Jolly Mec Wi Fi               | 732584        | https://jollymec.agua-iot.com          		    |                                                        |
