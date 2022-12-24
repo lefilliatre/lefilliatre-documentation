@@ -17,9 +17,9 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 
 | Fabricant                     | Customer Code | API URL                                		    | Separate login URL (only needed if specified)          | Marque | brandName  | Version |
 | ----------------------------- | ------------- | --------------------------------------------- | --------------------------------------------- | ------ | ---------- | ------- |
-| EvaCalòr - PuntoFuoco         | 635987        | https://evastampaggi.agua-iot.com		|                                                  |1|""|1|
-| Elfire Wifi                   | 402762        | https://elfire.agua-iot.com			|                                                  |1|""|1|
-| Karmek Wifi                   | 403873        | https://karmekone.agua-iot.com		|                                                        |1|""|1|
+| EvaCalòr - PuntoFuoco         | 635987        | https://evastampaggi.agua-iot.com		|                                                  |1||1|
+| Elfire Wifi                   | 402762        | https://elfire.agua-iot.com			|                                                  |1||1|
+| Karmek Wifi                   | 403873        | https://karmekone.agua-iot.com		|                                                        |1||1|
 | Easy Connect                  | 354924        | https://remote.mcz.it				|                                                        |1|""|1|
 | Easy Connect Plus             | 746318        | https://remote.mcz.it				|                                                        |1|""|1|
 | Easy Connect Poêle            | 354925        | https://remote.mcz.it				|                                                        |1|""|1|
