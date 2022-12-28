@@ -5,6 +5,11 @@
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# BETA 28/12/2022
+- Modification pour support version 1.9.0 de micronova.
+- Test sur myPiazzeta
+- Attention il faut maintenant préciser la version exact (voir la documentation)
+
 # BETA 24/12/2022
 - Modification pour support version 1.8.1 de micronova.
 - Test sur mysuperior
