@@ -3,6 +3,7 @@ layout: default
 title: Plugin PoeleAgua
 lang: fr_FR
 pluginId: PoeleAgua
+---
 
 # Plugin PoeleAgua
 
