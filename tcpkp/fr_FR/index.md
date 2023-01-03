@@ -2,7 +2,7 @@
 layout: default
 title: Plugin TcpKP
 lang: fr_FR
-pluginId: TcpKP
+pluginId: tcpkp
 ---
 
 # Plugin Niren TcpKP
