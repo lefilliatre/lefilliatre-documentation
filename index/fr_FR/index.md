@@ -4,11 +4,11 @@ title: Plugins & Widgets
 lang: fr_FR
 ---
 
-Retrouvez l'ensemble des documentations des réalisations de Salvialf.
+Retrouvez l'ensemble des documentations des réalisations de LEFILLIATRE.
 
 # Plugins :
 
-## Pimp my Jeedom
+## POELEAGAU
 
 [<img width="77" src="{{site.market}}/filestore/market/plugin/images/pimpJeedom_icon.png">]({{site.baseurl}}/pimpJeedom/{{page.lang}})
 
