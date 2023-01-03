@@ -1,14 +1,12 @@
 ---
 layout: pluginlist
-title: Plugins & Widgets
+title: Plugins
 lang: fr_FR
 ---
 
 Retrouvez l'ensemble des documentations des réalisations de LEFILLIATRE.
 
-# Plugins :
-
-## PoeleAgua
+# PoeleAgua
 
 [<img width="77" src="{{site.market}}/filestore/market/plugin/images/PoeleAgua_icon.png">]({{site.baseurl}}/PoeleAgua/{{page.lang}})
 
@@ -18,7 +16,7 @@ Plugin permettant de communiquer avec les poêles à bois et/ou granulé communi
 - [Changelog]({{site.baseurl}}/PoeleAgua/{{page.lang}}/changelog)
 - <a href="{{site.market}}/index.php?v=d&plugin_id=4251" target="\_blank">Market</a>
 
-## Niren TcpKP
+# Niren TcpKP
 
 [<img width="77" src="{{site.market}}/filestore/market/plugin/images/tcpkp_icon.png">]({{site.baseurl}}/tcpkp/{{page.lang}})
 
