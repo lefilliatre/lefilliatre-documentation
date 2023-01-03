@@ -1,3 +1,9 @@
+---
+layout: default
+title: Changelog TcpKP
+lang: fr_FR
+pluginId: TcpKP
+---
 
 # Changelog plugin Niren TcpKP I8O8
 
