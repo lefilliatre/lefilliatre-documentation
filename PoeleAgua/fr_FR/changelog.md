@@ -1,3 +1,9 @@
+---
+layout: default
+title: Changelog PoeleAgua
+lang: fr_FR
+pluginId: PoeleAgua
+---
 
 # Changelog plugin PoeleAgua
 
