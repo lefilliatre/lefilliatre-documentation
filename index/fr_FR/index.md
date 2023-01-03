@@ -20,7 +20,7 @@ Plugin permettant de communiquer avec les poêles à bois et/ou granulé communi
 
 ## Niren TcpKP
 
-[<img width="77" src="{{site.market}}/filestore/market/plugin/images/tcpkp.png">]({{site.baseurl}}/tcpkp/{{page.lang}})
+[<img width="77" src="{{site.market}}/filestore/market/plugin/images/tcpkp_icon.png">]({{site.baseurl}}/tcpkp/{{page.lang}})
 
 Plugin permettant la gestion des cartes entrees sorties Niren tcpkp.
 
