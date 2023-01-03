@@ -1,1 +1,27 @@
-theme: jekyll-theme-cayman
+---
+langs: [fr_FR]
+baseurl: "/lefilliatre.github.io" # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site
+sass:
+  sass_dir: assets/css
+  style: compressed
+markdown: kramdown
+permalink: /404.html
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+exclude:
+- vendor
+plugins:
+- jekyll-paginate
+- jekyll-seo-tag
+title: "Documentation Lefilliatre"
+description: "Retrouvez toute la documentation des plugins et des widgets réalisés par Lefilliatre"
+author: "Lefilliatre"
+image: https://www.jeedom.com/site/logo.png
+www: https://www.jeedom.com/
+blog: https://blog.jeedom.com/
+forum: https://community.jeedom.com
+market: https://market.jeedom.com
+doc: https://doc.jeedom.com/
