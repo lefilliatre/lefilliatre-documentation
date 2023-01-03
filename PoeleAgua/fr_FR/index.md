@@ -1,3 +1,9 @@
+---
+layout: default
+title: Plugin PoeleAgua
+lang: fr_FR
+pluginId: PoeleAgua
+
 # Plugin PoeleAgua
 
 Ce plugin sert à communiquer avec les poêles à bois et/ou granulé communiquant sur la base du system AGUA IOT.
