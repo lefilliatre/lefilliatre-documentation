@@ -1,3 +1,10 @@
+---
+layout: default
+title: Plugin TcpKP
+lang: fr_FR
+pluginId: TcpKP
+---
+
 # Plugin Niren TcpKP
 
 Ce plugin sert à communiquer avec les modules ethernet Niren TCP-KP-I8O8.
