@@ -14,9 +14,12 @@ pluginId: PoeleAgua
 # 03/01/2023
 - Mise à jour de la documentation
 
+# BETA 03/01/2023
+- Correction Commande action qui ne fonctionne pas sur version >1.8.1 micronova (Merci à @Scorpix)
+
 # BETA 28/12/2022
 - Modification pour support version 1.9.0 de micronova.
-- Test sur myPiazzeta
+- Test sur myPiazzeta (Merci à @Damien77)
 - Attention il faut maintenant préciser la version exact (voir la documentation)
 
 # BETA 24/12/2022
