@@ -14,6 +14,8 @@ Ce plugin permet l’intégration des poêles connectés par la plateforme AGUA 
 
 Attention ce plugin n’a pas été testé avec tous les poêles. , il n’y a donc aucune garantie que cela fonctionnera avec le vôtre.
 
+Post forum listant des modéles testé [post forum Liste des matériels compatible][]
+
 ## Configuration
 
 Pour utiliser le plugin, vous devez configurer les informations suivantes :
@@ -247,3 +249,4 @@ CAUw7C29C79Fv1C5qfPrmAESrciIxpg0X40KPMbp1ZWVbd4=
 
 [py-agua-iot]: https://github.com/fredericvl/py-agua-iot "Github"
 [https://www.uuidgenerator.net/version4)]: https://www.uuidgenerator.net/version4 "Génération UUID"
+[post forum Liste des matériels compatible]: https://community.jeedom.com/t/plugins-poeleagua-liste-des-modeles-teste/99281 "Community"
