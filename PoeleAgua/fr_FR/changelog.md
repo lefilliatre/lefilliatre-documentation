@@ -14,7 +14,7 @@ pluginId: PoeleAgua
 # 12/01/2023
 - Passage de la beta du 11/01/2023 en release.
 
-- # BETA 11/01/2023
+# BETA 11/01/2023
 - Mise à jour des statusTexte et AlarmeTexte
 
 # BETA 10/01/2023
