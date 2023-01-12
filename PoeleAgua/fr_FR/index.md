@@ -14,14 +14,14 @@ Ce plugin permet l’intégration des poêles connectés par la plateforme AGUA 
 
 Attention ce plugin n’a pas été testé avec tous les poêles. , il n’y a donc aucune garantie que cela fonctionnera avec le vôtre.
 
-Post forum listant des modéles testé [post forum Liste des matériels compatible][]
+Post forum listant des modéles testés [post forum Liste des matériels compatible][]
 
 ## Configuration
 
 Pour utiliser le plugin, vous devez configurer les informations suivantes :
 
 ### Api URL, Login URL , Customer Code , Marque , brandName, Version
-Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de votre fabricant, l'url de login si necessaire (ex piazzetta) (sinon laisser vide) et le Customer Code correspondant, la marque, le brandName si necessaire, et la version
+Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de votre fabricant, l'url de login si necessaire (ex piazzetta) (sinon laisser vide) et le Customer Code correspondant, la marque, le brandName si necessaire, et la version en vous référent au tableau si aprés.
 
 
 |Config| Fabricant                     | Customer Code | API URL                                		    | Separate login URL (only needed if specified)          | Marque | brandName  | Version |
