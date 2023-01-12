@@ -88,8 +88,8 @@ Créer ensuite les commandes dans le plugin. Faire les tests de commande avec le
 Si un retour d’état ou une commande n’est pas disponible dans l’application Android ou Apple dédiée, elle ne le sera pas non plus dans le plugin !
 
 ## Identification des retours d’états et commandes disponibles :
-###	Récupérer le log PoeleAgua en mode debug après avoir redémarré le Démon.
-###	Dans [update_device_registers_mapping --> REGISTERS MAP] identifier le retour d’état ou la commande qui doit être ajoutée.
+####	Récupérer le log PoeleAgua en mode debug après avoir redémarré le Démon.
+####	Dans [update_device_registers_mapping --> REGISTERS MAP] identifier le retour d’état ou la commande qui doit être ajoutée.
 
 Exemple :
 ```
@@ -108,7 +108,7 @@ Exemple :
 'offset': 32897 a la même adresse que le retour d’état.
 ‘set_min’ : 0, ‘set_max’ : 3, […], ‘value_off’ : 3 est identique au retour d’état. 
 
-###	Dans [update_device_information--> INFORMATION MAP:] identifier la valeur d’un retour d’état offset
+####	Dans [update_device_information--> INFORMATION MAP:] identifier la valeur d’un retour d’état offset
 Dans cet exemple : 
 ```
 32897: 2 
