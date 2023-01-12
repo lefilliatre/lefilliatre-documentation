@@ -118,7 +118,7 @@ La valeur retournée dans le plugin pour l’offset 32897 (puissance de ventilat
 ## Ajouter un retour d’état :
 Après avoir sélectionné votre poêle dans le plugin, aller dans la section commandes et cliquer en haut à droite sur ‘ajouter une commande’.
 
-![Nouvelle commande](https://lefilliatre.github.io/PoeleAgua/ressources/nouvelleCmd.png)
+![Nouvelle commande](https://lefilliatre.github.io/PoeleAgua](https://lefilliatre.github.io/lefilliatre-documentation/PoeleAgua/ressources/nouvelleCmd.png)
 Nom de la commande 	= le nom que vous souhaitez voir s’afficher dans le plugin. Dans cet exemple : Puissance ventilateur
 Commande			= i_ + le retour d’état de votre poêle identifié précédemment que vous voulez voir. Dans notre exemple :
 ```
