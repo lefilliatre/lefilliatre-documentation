@@ -11,6 +11,9 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 15/01/2023
+- Correction formatage du host en version 1.6.0
+
 # 12/01/2023
 - Passage de la beta du 11/01/2023 en release.
 
