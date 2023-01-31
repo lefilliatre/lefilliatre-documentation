@@ -62,8 +62,12 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 |33| Ravelli Wi-Fi                 | 953712        | https://aico.agua-iot.com              |                                                       |1| |1.6.0|
 
 ### UUID
-
 UUID aléatoire (vous pouvez générer un nouvel UUID automatiquement via ce site par exemple : [https://www.uuidgenerator.net/version4)][]
+Sur certaine marque (constaté avec superior) seul certain uuid fonctionnent.
+Voici une liste :
+-"E47D1CE4-51DB-4325-AC7F-80887A26D8AD"
+-"C9EED03C-98F4-423D-A043-6203374DB2AE"
+
 
 ### Login sur l'app
 Login sur l’app (l’e-mail que vous utilisez sur l’application mobile Android ou iOS)
