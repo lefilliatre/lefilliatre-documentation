@@ -11,10 +11,13 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
-# 27/01/2023
+# 31/01/2023
+- Passage de la beta du 27/01/2023 en release.
+
+# BETA 27/01/2023
 - Suite correction meilleur gestion des problemes de communication entre le serveur et le poele
 
-# 15/01/2023
+# BETA 15/01/2023
 - Correction pour meilleur gestion des problemes de communication entre le serveur et le poele
 - Correction formatage du host en version 1.6.0
 
