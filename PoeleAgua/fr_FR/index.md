@@ -58,7 +58,8 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 |29| Alfaplam                      | 862148        | https://alfaplam.agua-iot.com          		    |                                                        |1||1.6.0|
 |30| Nina                          | 999999        | https://micronova.agua-iot.com         		    |                                                        |1||1.6.0|
 |31| Galletti                      | ?             | ?                                      		    |                                                        |1||1.6.0|
-|32| Nobis                          | 700700        | https://nobis.agua-iot.com/       		    |                                                        |1||1.6.0|
+|32| Nobis                         | 700700        | https://nobis.agua-iot.com/       		    |                                                        |1||1.6.0|
+
 ### UUID
 
 UUID aléatoire (vous pouvez générer un nouvel UUID automatiquement via ce site par exemple : [https://www.uuidgenerator.net/version4)][]
