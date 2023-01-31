@@ -59,6 +59,7 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 |30| Nina                          | 999999        | https://micronova.agua-iot.com         		    |                                                        |1||1.6.0|
 |31| Galletti                      | ?             | ?                                      		    |                                                        |1||1.6.0|
 |32| Nobis                         | 700700        | https://nobis.agua-iot.com/       		    |                                                        |1||1.6.0|
+|33| Ravelli Wi-Fi                 | 953712        | https://aico.agua-iot.com              |                                                       |1| |1.6.0|
 
 ### UUID
 
