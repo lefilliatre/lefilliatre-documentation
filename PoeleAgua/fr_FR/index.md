@@ -68,7 +68,7 @@ UUID aléatoire (vous pouvez générer un nouvel UUID automatiquement via ce sit
 	
 Login sur l’app (l’e-mail que vous utilisez habituellement sur l’application mobile Android ou iOS)
 
-### Login sur l’app
+### Mot de passe sur l’app
 Mot de passe sur l’app
 
 ### Port de communication Jeedom
