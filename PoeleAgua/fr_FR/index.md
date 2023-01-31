@@ -65,10 +65,10 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 UUID aléatoire (vous pouvez générer un nouvel UUID automatiquement via ce site par exemple : [https://www.uuidgenerator.net/version4)][]
 
 ### Login sur l'app
-Login sur l’app (l’e-mail que vous utilisez habituellement sur l’application mobile Android ou iOS)
+Login sur l’app (l’e-mail que vous utilisez sur l’application mobile Android ou iOS)
 
 ### Mot de passe sur l’app
-Mot de passe de votre compte que vous utiliser sur  l’application mobile Android ou iOS
+Mot de passe de votre compte que vous utilisez sur l’application mobile Android ou iOS
 
 ### Port de communication Jeedom
 Renseigner un port de libre pour la communication avec jeedom  (par exemple 3131, 3130, 4576, etc., évitez 80, 443, et autres ports utilisés par d’autres services déjà installés sur votre Jeedom)
