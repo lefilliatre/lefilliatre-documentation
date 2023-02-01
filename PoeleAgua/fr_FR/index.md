@@ -152,6 +152,10 @@ N’oubliez pas de sauvegarder !
 
 
 # FAQ
+
+## Failed to login, please check credentials
+Sur certaines marques (en particulier Superior) seul certains uuid sont accéptés. Voir la doc pour trouver les uuid compatibles.
+
 ## Certificats
 Avec certaines plateformes, vous pouvez renconter des difficultés à vous connecter sur le serveur du fabricant (ex : mcz) à cause du certificat utilisé pour le https. Pour corriger ce problème, sur remote-mcz par exemple:
 * Récupérer le certificat (remote-mcz-it-chain.pem) du site (à partir de votre navigateur web, par exemple :
