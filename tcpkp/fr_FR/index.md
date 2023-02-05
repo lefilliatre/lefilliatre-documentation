@@ -10,7 +10,7 @@ pluginId: tcpkp
 Ce plugin sert à communiquer avec les modules ethernet Niren TCP-KP-I8O8.
 voir lien d'achat :[aliexpress][]
 
-![TCP-kp I8O8](https://lefilliatre.github.io/tcpkp/sources/niren.png)
+![TCP-kp I8O8](https://lefilliatre.github.io/lefilliatre-documentation/tcpkp/sources/niren.png)
 
 Ce plugins creer :
 - 8 commandes info pour connaitre l'état des 8 relais,
@@ -25,7 +25,7 @@ Il posséde aussi une fonction "télérupteur" permettant (par le mappage) de re
 
 Pour utilser le plugins, vous devez configurer les informations suivante:
 
-![configuration](https://lefilliatre.github.io/tcpkp/sources/configurationPlugins.png)
+![configuration](https://lefilliatre.github.io/lefilliatre-documentation/tcpkp/sources/configurationPlugins.png)
 
 - adresse IP carte : Adresse IP du tcp-kp
 - port communication carte : port de communication entre le demon et le tcpkp (mettre la même valeur que dans le module ex:12345)
@@ -34,7 +34,7 @@ Pour utilser le plugins, vous devez configurer les informations suivante:
 ### Mode télérupteur
 
 Il est possible de piloter une sortie par une ou plusieurs entrées directement sans passer par jeedom afin d'avoir un system trés réactif.
-![liste](https://lefilliatre.github.io/tcpkp/sources/mapping.png)
+![liste](https://lefilliatre.github.io/tcpkp/lefilliatre-documentation/sources/mapping.png)
 
 Par exemple :
 Si sur l'entrée 1 vous raccordé un interrupteur, sur l'entrée 2 un deuxieme interrupteur et que vous souhaitez faire une fonction va et vient pour piloter un éclairage raccordé sur la sortie 5,
@@ -60,15 +60,15 @@ Pour cela il vous faudra lancer le logiciel de configuration disponible [ici][]
 
 - Dans le haut du logiciel, selectionner votre carte réseau à laquelle est connectée votre module
 
-![Selection carte réseau](https://lefilliatre.github.io/tcpkp/sources/selectCarte.png)
+![Selection carte réseau](https://lefilliatre.github.io/lefilliatre-documentation/tcpkp/sources/selectCarte.png)
 
 - Lancer ensuite la recherche du module
 
-![Recherche du module](https://lefilliatre.github.io/tcpkp/sources/recherche.png)
+![Recherche du module](https://lefilliatre.github.io/lefilliatre-documentation/tcpkp/sources/recherche.png)
 
 - Si tout est raccordé correctement, votre module doit apparaitre dans la fenetre
 
-![liste](https://lefilliatre.github.io/tcpkp/sources/liste.png)
+![liste](https://lefilliatre.github.io/lefilliatre-documentation/tcpkp/sources/liste.png)
 
 - double cliquer dessus pour se connecter
 
@@ -80,19 +80,19 @@ Pour cela il vous faudra lancer le logiciel de configuration disponible [ici][]
 	° Le port de communication du module (celle mise dans la configuration du plugins)
 	° Le mode de fonctionnement (TCP_Server)
 	
-![liste](https://lefilliatre.github.io/tcpkp/sources/param.png)
+![liste](https://lefilliatre.github.io/lefilliatre-documentation/tcpkp/sources/param.png)
 
 - Enregistrer les parametres
 
-![liste](https://lefilliatre.github.io/tcpkp/sources/enregistre.png)
+![liste](https://lefilliatre.github.io/lefilliatre-documentation/tcpkp/sources/enregistre.png)
 
 
 - Re-cliquer sur votre module pour verifier que tout à été enregistré
 
-![liste](https://lefilliatre.github.io/tcpkp/sources/liste.png)
+![liste](https://lefilliatre.github.io/lefilliatre-documentation/tcpkp/sources/liste.png)
 
 - Le module est prét à etre installé dans votre installation!
 
 
 [aliexpress]: https://fr.aliexpress.com/item/33005606116.html?spm=a2g0o.seodetail.topbuy.1.2d4f5bf3IYMFA2 "aliexpress"
-[ici]: https://lefilliatre.github.io/tcpkp/sources/logiciel%20de%20configuration.zip "archive logiciel"
+[ici]: https://lefilliatre.github.io/lefilliatre-documentation/tcpkp/sources/logiciel%20de%20configuration.zip "archive logiciel"
