@@ -34,7 +34,7 @@ Pour utilser le plugins, vous devez configurer les informations suivante:
 ### Mode télérupteur
 
 Il est possible de piloter une sortie par une ou plusieurs entrées directement sans passer par jeedom afin d'avoir un system trés réactif.
-![liste](https://lefilliatre.github.io/lefilliatre-documentation/tcpkp/lefilliatre-documentation/sources/mapping.png)
+![liste](https://lefilliatre.github.io/lefilliatre-documentation/tcpkp/sources/mapping.png)
 
 Par exemple :
 Si sur l'entrée 1 vous raccordé un interrupteur, sur l'entrée 2 un deuxieme interrupteur et que vous souhaitez faire une fonction va et vient pour piloter un éclairage raccordé sur la sortie 5,
