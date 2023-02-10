@@ -72,7 +72,7 @@ Pour cela il vous faudra lancer le logiciel de configuration disponible [ici][]
 
 - double cliquer dessus pour se connecter
 
-(dans l'exemple ci dessous le rpi à pour adresse 192.168.1.100,le masque est 255.255.255.0, le module est en 192.168.1.101, le port de communication avec le démon est 12345
+(dans l'exemple ci dessous JEEDOM à pour adresse 192.168.1.100,le masque est 255.255.255.0, le module est en 192.168.1.101, le port de communication avec le démon est 12345
 - Renseigner maintenant la configuration du module
 	° L'adresse IP de votre jeedom (celle du rpi par exemple)
 	° Le masque du réseau
