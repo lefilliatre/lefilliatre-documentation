@@ -11,8 +11,8 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
-# BETA 23/02/2023
-- Mise à jour suite à mise a jour serveur JollyMec (UUID à modifier avec valeur de la doc)
+# 23/02/2023
+- Mise à jour suite à mise a jour serveur JollyMec (UUID à modifier avec valeur de la doc et la version a changer)
 
 # 31/01/2023
 - Passage de la beta du 27/01/2023 en release.
