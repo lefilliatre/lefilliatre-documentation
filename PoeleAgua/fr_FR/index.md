@@ -38,7 +38,7 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 |10| Bronpi Home                   | 164873        | https://bronpi.agua-iot.com			|                                            |1||1.6.0|
 |11| EOSS WIFI -solartecnik        | 326495        | https://solartecnik.agua-iot.com       		    |                                           |1||1.6.0|
 |12| LAMINOXREM REMOTE CONTROL 2.0 | 352678        | https://laminox.agua-iot.com           		    |                                      |1||1.6.0|
-|13| Jolly Mec Wi Fi               | 732584        | https://jollymec.agua-iot.com          		    |                         |1||1.6.0|
+|13| Jolly Mec Wi Fi               | 732584        | https://jollymec.agua-iot.com          		    |                         |1||1.6.2|
 |14| Globe-fire                    | 634876        | https://globefire.agua-iot.com         		    |                                           |1||1.6.0|
 |15| TS Smart - timsistem          | 046629        | https://timsistem.agua-iot.com         		    |                                  |1||1.6.0|
 |16| Stufe a pellet Italia         | 015142        | https://stufepelletitalia.agua-iot.com 		    |                                 |1||1.6.0|
