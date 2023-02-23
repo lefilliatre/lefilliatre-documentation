@@ -65,10 +65,10 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 UUID aléatoire (vous pouvez générer un nouvel UUID automatiquement via ce site par exemple : [https://www.uuidgenerator.net/version4)][]
 
 Sur certaine marque, seul certain uuid fonctionnent.
-. Superior
+\_Superior\_
 - "E47D1CE4-51DB-4325-AC7F-80887A26D8AD"
 - "C9EED03C-98F4-423D-A043-6203374DB2AE"
-. Jolly Mec
+\_Jolly Mec\_
 - "70A88BA8-9D8E-4D94-9893-CAC141AFDE3E"
 
 
