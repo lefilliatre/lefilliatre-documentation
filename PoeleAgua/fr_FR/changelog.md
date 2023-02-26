@@ -11,6 +11,9 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 26/02/2023
+- Tentative correction suite maj du 23/02/2023
+
 # 23/02/2023
 - Mise à jour suite à mise a jour serveur JollyMec (UUID à modifier avec valeur de la doc et la version a changer)
 
