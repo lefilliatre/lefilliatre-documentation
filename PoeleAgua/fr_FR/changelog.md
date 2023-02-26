@@ -12,8 +12,8 @@ pluginId: PoeleAgua
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
 # 26/02/2023
--RELEASE : Retour sur la release du 31-01-20223
--BETA : Suite mise a jour
+- RELEASE : Retour sur la release du 31-01-20223
+- BETA : Suite mise a jour
 
 # 25/02/2023
 - Tentative correction suite maj du 23/02/2023
