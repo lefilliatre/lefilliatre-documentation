@@ -11,6 +11,9 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# BETA 27/02/2023
+- Correction erreur syntaxe : TabError: inconsistent use of tabs and spaces in indentation
+
 # 26/02/2023
 - RELEASE : Retour sur la release du 31-01-20223 (désolé pour le désagrément)
 - BETA : Suite mise a jour
