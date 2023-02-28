@@ -11,6 +11,9 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# BETA 28/02/2023
+- Suite maj jollymec v1.6.2
+
 # BETA 27/02/2023
 - Correction erreur syntaxe : TabError: inconsistent use of tabs and spaces in indentation
 
