@@ -15,6 +15,9 @@ pluginId: PoeleAgua
 - Suite maj jollymec v1.6.2
 - Generez un nouvelle Uuid aléatoire. (celui ci sera enregistré sur le serveur micronova)
 
+# STABLE 28/02/2023
+- Pas de modification seulement pour demander à tous de générer un uuid aléatoire et ne pas utiliser se fournit dans la doc
+
 # BETA 27/02/2023
 - Correction erreur syntaxe : TabError: inconsistent use of tabs and spaces in indentation
 
