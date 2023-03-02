@@ -12,7 +12,7 @@ pluginId: PoeleAgua
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
 # BETA et Stable 02/03/2023
-- Modification enregistrement du plugins sur le serveur d'application pour les version > 1.6.0.
+- Modification enregistrement du plugins sur le serveur d'application pour les version > 1.6.0  
 `Chaque app (plugins compris) doit disposer d'un numéro unique (UUID enregistré dans la configuration du plugins)
         Lors du permier lancement, l'APP s'enregistre au pres du serveur. Cette UUID sert à gérer l'expiration de la connection et l'identification des requettes futures.
         Il est donc primordiale qu'il soit unique sinon déconnection à gogo.
