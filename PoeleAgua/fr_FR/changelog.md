@@ -13,10 +13,10 @@ pluginId: PoeleAgua
 
 # BETA et Stable 02/03/2023
 - Modification enregistrement du plugins sur le serveur d'application pour les version > 1.6.0
-        Chaque app (plugins compris) doit disposer d'un numéro unique (UUID enregistré dans la configuration du plugins)
+        'Chaque app (plugins compris) doit disposer d'un numéro unique (UUID enregistré dans la configuration du plugins)
         Lors du permier lancement, l'APP s'enregistre au pres du serveur. Cette UUID sert à gérer l'expiration de la connection et l'identification des requettes futures.
         Il est donc primordiale qu'il soit unique sinon déconnection à gogo.
-        Dans les versions précédentes du plugins, l'enregistrement ne se faisait pas correctement pour les version >1.6.0
+        Dans les versions précédentes du plugins, l'enregistrement ne se faisait pas correctement pour les version >1.6.0'
 
 # BETA 28/02/2023
 - Suite maj jollymec v1.6.2
