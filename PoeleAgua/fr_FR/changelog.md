@@ -11,6 +11,9 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# BETA 16/10/2024 (A faire que sur invitation)
+- test suite a version 1.9.10 JollyMec et 1.9.5 Piazzetta
+
 # BETA et Stable 02/03/2023
 - Modification enregistrement du plugins sur le serveur d'application pour les version > 1.6.0  
 `Chaque app (plugins compris) doit disposer d'un numéro unique (UUID enregistré dans la configuration du plugins)
@@ -23,7 +26,7 @@ pluginId: PoeleAgua
 - Generez un nouvelle Uuid aléatoire. (celui ci sera enregistré sur le serveur micronova)
 
 # STABLE 28/02/2023
-- Pas de modification seulement pour demander à tous de générer un uuid aléatoire et ne pas utiliser se fournit dans la doc
+- Pas de modification seulement pour demander à tous de générer un uuid aléatoire et ne pas utiliser ceux fournit dans la doc
 
 # BETA 27/02/2023
 - Correction erreur syntaxe : TabError: inconsistent use of tabs and spaces in indentation
