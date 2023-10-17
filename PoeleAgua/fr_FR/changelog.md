@@ -11,6 +11,9 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# BETA 17/10/2024
+- modification pour nouvelle version micronova 1.9.10 chez JollyMec et 1.9.5 chez Piazzetta. Regarder les nouvelles configurations dans la doc. (Merci à @nlpl14)
+ 
 # BETA 16/10/2024 (A faire que sur invitation)
 - test suite a version 1.9.10 JollyMec et 1.9.5 Piazzetta. Regarder les nouvelles configurations dans la doc.
 
