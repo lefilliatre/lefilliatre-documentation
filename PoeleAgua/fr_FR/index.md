@@ -53,16 +53,16 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 |23| Darwin Evolution              | 475219        | https://cola.agua-iot.com              	            |                                      |1||1.6.0|
 |24| Moretti design                | 624813        | https://moretti.agua-iot.com           		    |                                              |1||1.6.0|
 |25| Fontana Forni                 | 505912        | https://fontanaforni.agua-iot.com  		    |                                            |1||1.6.0|
-|26|<font color='red'>MyPiazzetta 1.6.0</font> | 458632        | https://piazzetta.agua-iot.com     	            | https://piazzetta.iot.web2app.it/api/bridge/endpoint/  |1||1.6.0|
-|27| <font color='red'>MyPiazzetta	1.8.1</font> | 458632        | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/   | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/  |1|piazzetta|1.9.0|
-|28| <font color='red'>MySuperior 1.8.1</font> | 458632        | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/   | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/ |2|superior|1.8.1|
+|26|<font color='red'>MyPiazzetta 1.6.0*</font> | 458632        | https://piazzetta.agua-iot.com     	            | https://piazzetta.iot.web2app.it/api/bridge/endpoint/  |1||1.6.0|
+|27| <font color='red'>MyPiazzetta	1.8.1*</font> | 458632        | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/   | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/  |1|piazzetta|1.9.0|
+|28| <font color='red'>MySuperior 1.8.1*</font> | 458632        | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/   | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/ |2|superior|1.8.1|
 |29| Alfaplam                      | 862148        | https://alfaplam.agua-iot.com          		    |                                                        |1||1.6.0|
 |30| Nina                          | 999999        | https://micronova.agua-iot.com         		    |                                                        |1||1.6.0|
 |31| Galletti                      | ?             | ?                                      		    |                                                        |1||1.6.0|
 |32| Nobis                         | 700700        | https://nobis.agua-iot.com/       		    |                                                        |1||1.6.0|
 |33| Ravelli Wi-Fi                 | 953712        | https://aico.agua-iot.com              |                                                       |1| |1.6.0|
 |34| MyPiazzetta	1.9.5	        | 458632        | https://piazzetta.agua-iot.com            | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/  |1|piazzetta|1.9.5|
-
+<font color='red'>* Version ancienne </font>
 ### UUID
 UUID aléatoire (vous pouvez générer un nouvel UUID automatiquement via ce site par exemple : [https://www.uuidgenerator.net/version4)][]
 
