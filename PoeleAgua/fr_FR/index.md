@@ -62,6 +62,7 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 |32| Nobis                         | 700700        | https://nobis.agua-iot.com/       		    |                                                        |1||1.6.0|
 |33| Ravelli Wi-Fi                 | 953712        | https://aico.agua-iot.com              |                                                       |1| |1.6.0|
 |34| MyPiazzetta	1.9.5	        | 458632        | https://piazzetta.agua-iot.com            | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/  |1|piazzetta|1.9.5|
+
 <font color='red'>* Version ancienne </font>
 ### UUID
 UUID aléatoire (vous pouvez générer un nouvel UUID automatiquement via ce site par exemple : [https://www.uuidgenerator.net/version4)][]
