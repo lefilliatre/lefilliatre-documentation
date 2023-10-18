@@ -23,6 +23,7 @@ Pour utiliser le plugin, vous devez configurer les informations suivantes :
 ### Api URL, Login URL , Customer Code , Marque , brandName, Version
 Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de votre fabricant, l'url de login si necessaire (ex piazzetta) (sinon laisser vide) et le Customer Code correspondant, la marque, le brandName si necessaire, et la version en vous référent au tableau si aprés.
 
+<span class="depreciated">texte coloré en vert sur fond bleu</span>
 
 |Config| Fabricant                     | Customer Code | API URL                                		    | Separate login URL (only needed if specified)          | Marque | brandName  | Version |
 |---| ----------------------------- | ------------- | --------------------------------------------- | --------------------------------------------- | ------ | ---------- | ------- |
@@ -38,7 +39,7 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 |10| Bronpi Home                   | 164873        | https://bronpi.agua-iot.com			|                                            |1||1.6.0|
 |11| EOSS WIFI -solartecnik        | 326495        | https://solartecnik.agua-iot.com       		    |                                           |1||1.6.0|
 |12| LAMINOXREM REMOTE CONTROL 2.0 | 352678        | https://laminox.agua-iot.com           		    |                                      |1||1.6.0|
-|13| Jolly Mec Wi Fi               | 732584        | https://jollymec.agua-iot.com          		    |                         |1||1.6.2 beta/1.6.0 stable|
+|13| Jolly Mec Wi Fi               | 732584        | https://jollymec.agua-iot.com          		    |                         |1||1.6.2 |
 |14| Globe-fire                    | 634876        | https://globefire.agua-iot.com         		    |                                           |1||1.6.0|
 |15| TS Smart - timsistem          | 046629        | https://timsistem.agua-iot.com         		    |                                  |1||1.6.0|
 |16| Stufe a pellet Italia         | 015142        | https://stufepelletitalia.agua-iot.com 		    |                                 |1||1.6.0|
@@ -52,9 +53,9 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 |23| Darwin Evolution              | 475219        | https://cola.agua-iot.com              	            |                                      |1||1.6.0|
 |24| Moretti design                | 624813        | https://moretti.agua-iot.com           		    |                                              |1||1.6.0|
 |25| Fontana Forni                 | 505912        | https://fontanaforni.agua-iot.com  		    |                                            |1||1.6.0|
-|26| MyPiazzetta	           | 458632        | https://piazzetta.agua-iot.com     	            | https://piazzetta.iot.web2app.it/api/bridge/endpoint/  |1||1.6.0|
-|27| MyPiazzetta	1.8.1	        | 458632        | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/   | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/  |1|piazzetta|1.9.0|
-|28| MySuperior			| 458632        | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/   | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/ |2|superior|1.8.1|
+|26|<font color='red'>MyPiazzetta 1.6.0</font> | 458632        | https://piazzetta.agua-iot.com     	            | https://piazzetta.iot.web2app.it/api/bridge/endpoint/  |1||1.6.0|
+|27| <font color='red'>MyPiazzetta	1.8.1</font> | 458632        | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/   | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/  |1|piazzetta|1.9.0|
+|28| <font color='red'>MySuperior 1.8.1</font> | 458632        | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/   | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/ |2|superior|1.8.1|
 |29| Alfaplam                      | 862148        | https://alfaplam.agua-iot.com          		    |                                                        |1||1.6.0|
 |30| Nina                          | 999999        | https://micronova.agua-iot.com         		    |                                                        |1||1.6.0|
 |31| Galletti                      | ?             | ?                                      		    |                                                        |1||1.6.0|
