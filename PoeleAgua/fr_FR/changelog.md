@@ -11,16 +11,19 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
-# 20/10/2022
+# 13/11/2023
+- Pas de modification. Juste pour prévenir que la béta va passer en stable prochainement. J'invite donc toutes les personnes sur la stable à tester la béta afin d'éviter les (mausaises) surprises.
+
+# 20/10/2023
 - Mise a jour de la documentation
   
-# BETA 18/10/2024
+# BETA 18/10/2023
 - modification pour nouvelle version micronova 1.9.5 chez Superior. Regarder les nouvelles configurations dans la doc. (Merci à @Scorpix)
   
-# BETA 17/10/2024
+# BETA 17/10/2023
 - modification pour nouvelle version micronova 1.9.10 chez JollyMec et 1.9.5 chez Piazzetta. Regarder les nouvelles configurations dans la doc. (Merci à @nlpl14)
  
-# BETA 16/10/2024 (A faire que sur invitation)
+# BETA 16/10/2023 (A faire que sur invitation)
 - test suite a version 1.9.10 JollyMec et 1.9.5 Piazzetta. Regarder les nouvelles configurations dans la doc.
 
 # BETA et Stable 02/03/2023
