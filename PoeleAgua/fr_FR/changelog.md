@@ -11,6 +11,9 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 08/12/2023
+- Modification formula_parcer pour recupérer les décimales dans les valeurs
+
 # 21/11/2023
 - Passage de la beta en stable.
 - Remise en place des commande start et stop direct qui avaient disparues
