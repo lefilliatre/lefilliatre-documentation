@@ -5,6 +5,6 @@ lang: fr_FR
 pluginId: tcpkp
 ---
 
-# Plugin Niren TcpKP
+# Plugin PoeleAgua
 
-Ce plugin sert à communiquer avec les modules ethernet Niren TCP-KP-I8O8.
+Ce plugin sert à communiquer avec les poêles à bois et/ou granulé communiquant sur la base du system AGUA IOT.
