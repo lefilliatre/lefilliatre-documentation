@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plugin TcpKP
+title: plugin TcpKP
 lang: fr_FR
 pluginId: tcpkp
 ---
