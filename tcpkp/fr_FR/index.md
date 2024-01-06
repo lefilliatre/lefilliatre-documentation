@@ -92,6 +92,8 @@ Pour cela il vous faudra lancer le logiciel de configuration disponible [ici][]
 
 - Le module est prét à etre installé dans votre installation!
 
+# FAQ
+Vois sur le Forum jeedom
 
 [aliexpress]: https://fr.aliexpress.com/item/33005606116.html?spm=a2g0o.seodetail.topbuy.1.2d4f5bf3IYMFA2 "aliexpress"
 [ici]: https://lefilliatre.github.io/lefilliatre-documentation/tcpkp/sources/logiciel%20de%20configuration.zip "archive logiciel"
