@@ -11,6 +11,9 @@ pluginId: tcpkp
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 09/03/2024 BETA
+- Modification du code pour utilisation de "checkAndUpdateCmd" au lieu de "event" pour pouvoir utiliser la gestion des répétitions du core.
+
 # 06/01/2024 BETA
 - Preparation pour version core V4.4
 
