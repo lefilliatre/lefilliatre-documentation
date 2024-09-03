@@ -11,6 +11,12 @@ pluginId: tcpkp
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 03/09/2024 BETA
+- Preparation passage debian 12.
+- 
+# 03/09/2024 
+- Passage de la beta en stable.
+  
 # 09/03/2024 BETA
 - Modification du code pour utilisation de "checkAndUpdateCmd" au lieu de "event" pour pouvoir utiliser la gestion des répétitions du core.
 
