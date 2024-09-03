@@ -13,6 +13,7 @@ pluginId: PoeleAgua
 
 # 03/09/2024 BETA
 - Preparation passage debian 12.
+- Correction nom commande "start" + forcage valeur par defaut à la création des commandes. (Merci à aknot)
   
 # 03/09/2024 
 - Passage de la beta en stable.
