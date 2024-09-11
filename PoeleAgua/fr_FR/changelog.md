@@ -11,6 +11,9 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 11/09/2024 Stable et BETA
+- Mise a jour de la documentation
+
 # 03/09/2024 BETA
 - Preparation passage debian 12.
 - Correction nom commande "start" + forcage valeur par defaut à la création des commandes. (Merci à aknot)
