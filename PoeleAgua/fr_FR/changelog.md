@@ -11,6 +11,10 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 12/09/2024 
+- Passage de la beta en stable.
+- Correction bug sur création des nouvelles commandes (Merci à geordie)
+  
 # 11/09/2024 Stable et BETA
 - Mise a jour de la documentation
 
