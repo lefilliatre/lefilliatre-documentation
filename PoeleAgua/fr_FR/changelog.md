@@ -14,6 +14,7 @@ pluginId: PoeleAgua
 # 12/09/2024 
 - Passage de la beta en stable.
 - Correction bug sur création des nouvelles commandes (Merci à geordie)
+- Correction bug formula.parser sur poele turboFonte
   
 # 11/09/2024 Stable et BETA
 - Mise a jour de la documentation
