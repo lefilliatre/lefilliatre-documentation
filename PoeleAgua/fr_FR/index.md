@@ -64,6 +64,7 @@ Vous devez renseigner tout d’abord l’adresse de la plateforme Agua IOT de vo
 |34| MyPiazzetta	1.9.5	        | 458632        | https://piazzetta.agua-iot.com            | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/  |1|piazzetta|1.9.5|
 |35| MySuperior	1.9.5	        | 458632        | https://piazzetta.agua-iot.com            | https://piazzetta-iot.app2cloud.it/api/bridge/endpoint/  |2|superior|1.9.5|
 |36| TurboFonte easyConnect       | 354924        | https://remote.mcz.it            |                                                       |2|turbofonte|1.6.0|
+|37| Extraflame        | 195764        | https://extraflame.agua-iot.com         |                                                       |1||1.6.0|
 
 <font color='red'>*Version ancienne </font>
 
