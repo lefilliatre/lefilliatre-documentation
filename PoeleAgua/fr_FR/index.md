@@ -96,7 +96,7 @@ Si un retour d’état ou une commande n’est pas disponible dans l’applicati
 
 ## Identification des retours d’états et commandes disponibles :
 ###	Récupérer le log PoeleAgua en mode debug après avoir redémarré le Démon.
-###	Dans [update_device_registers_mapping --> REGISTERS MAP] identifier le retour d’état ou la commande qui doit être ajoutée.
+###	Dans [update_device_registers_mapping --> REGISTERS MAP] identifier le retour d’état ou la commande qui doit être ajoutée (Registre).
 
 Exemple :
 ```
@@ -127,13 +127,15 @@ Après avoir sélectionné votre poêle dans le plugin, aller dans la section co
 
 ![Nouvelle commande](https://lefilliatre.github.io/lefilliatre-documentation/PoeleAgua/ressources/nouvelleCmd.png)
 Nom de la commande 	= le nom que vous souhaitez voir s’afficher dans le plugin. Dans cet exemple : Puissance ventilateur
-Commande			= i_ + le retour d’état de votre poêle identifié précédemment que vous voulez voir. Dans notre exemple :
+LogicalId			= i_ + le nom du registre précédemment identifié. Dans notre exemple :
 ```
 i_vent_front_get 
 ```
 Info				= retour d’état. 
 Numérique			= Retour numérique
 Cliquer sur ‘Historiser’
+![image](https://github.com/user-attachments/assets/beba191b-0ffc-44ce-bdaf-21c299d22c2c)
+
 N’oubliez pas de sauvegarder !
 
 ## Ajouter une commande :
@@ -141,7 +143,7 @@ N’oubliez pas de sauvegarder !
 Après avoir sélectionné votre poêle dans le plugin, aller dans la section commandes et cliquer en haut à droite sur ‘ajouter une commande’.
 
 Nom de la commande 	= le nom que vous souhaitez voir s’afficher dans le plugin. Par exemple : Réglage ventilateur
-Commande			= le retour d’état de votre poêle identifié précédemment que vous voulez voir, sans le préfixe i_. Dans cet exemple :
+LogicalId			= le nom du registre précédemment identifié, sans le préfixe i_. Dans cet exemple :
 ```
 vent_front_set
 ```
@@ -149,6 +151,9 @@ Info				= basculer sur ‘action’.
  
 Aucune			= sélectionner dans le menu déroulant la commande info liée. Dans cet exemple : Puissance ventilateur.
 Défaut			= Basculer vers ‘Curseur
+![image](https://github.com/user-attachments/assets/e1552b15-3a85-4495-a697-8ee63baad718)
+
+
 N’oubliez pas de sauvegarder !
 
 
