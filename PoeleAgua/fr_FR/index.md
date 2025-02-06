@@ -127,6 +127,7 @@ Après avoir sélectionné votre poêle dans le plugin, aller dans la section co
 
 ![Nouvelle commande](https://lefilliatre.github.io/lefilliatre-documentation/PoeleAgua/ressources/nouvelleCmd.png)
 Nom de la commande 	= le nom que vous souhaitez voir s’afficher dans le plugin. Dans cet exemple : Puissance ventilateur
+
 LogicalId			= i_ + le nom du registre précédemment identifié. Dans notre exemple :
 ```
 i_vent_front_get 
@@ -143,6 +144,7 @@ N’oubliez pas de sauvegarder !
 Après avoir sélectionné votre poêle dans le plugin, aller dans la section commandes et cliquer en haut à droite sur ‘ajouter une commande’.
 
 Nom de la commande 	= le nom que vous souhaitez voir s’afficher dans le plugin. Par exemple : Réglage ventilateur
+
 LogicalId			= le nom du registre précédemment identifié, sans le préfixe i_. Dans cet exemple :
 ```
 vent_front_set
