@@ -11,6 +11,9 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 15/03/2025 BETA
+- Modification pour gerer une erreur à la reception de commande imcomplete de l'equipement.
+  
 # 21/02/2025 BETA
 - Suite test pour compatibilité modéle Nordica Navel plus (résolution 'value_on' non exposé dans le 'REGISTERS MAP')
 
