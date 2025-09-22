@@ -11,6 +11,9 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 22/09/2025 BETA
+- Modification pour gerer syntax différente sur modele nordica Extraflame 3.0
+
 # 15/03/2025 BETA
 - Modification pour gerer une erreur à la reception de commande imcomplete de l'equipement.
   
@@ -217,3 +220,4 @@ pluginId: PoeleAgua
 
 # 18/01/2022
 - Création du plugins
+
