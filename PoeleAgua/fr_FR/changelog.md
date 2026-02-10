@@ -12,6 +12,9 @@ pluginId: PoeleAgua
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
 # 09/02/2026 BETA
+- Correction warning sur installation des dépences yarn lors de la mise a jour du plugins
+
+# 09/02/2026 BETA
 - Gestion Alarme hors plage standard.Evite "PHP Warning:  Undefined array key" (Merci à lperenna)
 
 # 24/09/2025 Stable
@@ -226,6 +229,7 @@ pluginId: PoeleAgua
 
 # 18/01/2022
 - Création du plugins
+
 
 
 
