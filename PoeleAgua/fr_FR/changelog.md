@@ -11,7 +11,8 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
-# 06/07/2026 BETA
+# 06/07/2026 BETA et STABLE
+- Passage de la beta en stable
 - Suppression import serial plus utilisé
 
 # 09/02/2026 BETA
