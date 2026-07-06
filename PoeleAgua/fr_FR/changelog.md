@@ -11,6 +11,9 @@ pluginId: PoeleAgua
 >
 >Pour rappel s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de texte.
 
+# 06/07/2026 BETA
+- Suppression import serial plus utilisé
+
 # 09/02/2026 BETA
 - Correction warning sur installation des dépences yarn lors de la mise a jour du plugins
 
